@@ -2,7 +2,7 @@
 # Programme HTML simple basé sur template NginX
 
 ## TODO
-**Ouvrir le lien** : 
+**Ouvrir le lien** : https://miseenprod-mog-prod-td-applicloud-v0sf5k.mo4.mogenius.io/
 La page index.html s'affiche bien
 
 ## Git repository
@@ -12,3 +12,5 @@ La page index.html s'affiche bien
 ### Tentative de connexion à une API
 Premièrement tenté de me connecter à l'API créée pour le cours de FullStack
 
+* Mise en place de variables d'environnement dans application.yaml, et renseignement sur Mogenius
+![](/images/yaml.png)
