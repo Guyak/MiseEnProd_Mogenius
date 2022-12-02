@@ -19,4 +19,5 @@ Premièrement tenté de me connecter à l'API créée pour le cours de FullStack
 * Création de second service avec un template MySQL
 
 * ***Problème rencontré*** => Le serveur distant créé par la base de donnée n'est pas accessible via MySQL malgré plusieurs modifications et tests
+
 *Problème de host qui n'accepte pas de connection à distance*
