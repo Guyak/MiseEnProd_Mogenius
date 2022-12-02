@@ -3,6 +3,7 @@
 
 ## TODO
 **Ouvrir le lien** : https://miseenprod-mog-prod-td-applicloud-v0sf5k.mo4.mogenius.io/
+
 La page index.html s'affiche bien
 
 ## Git repository
@@ -15,6 +16,9 @@ Premièrement tenté de me connecter à l'API créée pour le cours de FullStack
 * Mise en place de variables d'environnement dans application.yaml, et renseignement sur Mogenius
 ![Sreenshot YAML](./images/yaml.PNG)
 ![Sreenshot Mogenius](./images/Mogenius_EV.PNG)
+
+* Création de service via code personnel et création de Dockerfile
+![Sreenshot Dockerfile](./images/dockerfile.PNG)
 
 * Création de second service avec un template MySQL
 
