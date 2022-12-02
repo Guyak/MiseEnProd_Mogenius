@@ -13,4 +13,4 @@ La page index.html s'affiche bien
 Premièrement tenté de me connecter à l'API créée pour le cours de FullStack
 
 * Mise en place de variables d'environnement dans application.yaml, et renseignement sur Mogenius
-![](/images/yaml.png)
+![Sreenshot YAML](./images/yaml.PNG)
