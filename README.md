@@ -11,3 +11,4 @@ La page index.html s'affiche bien
 ## Difficultés rencontrées
 ### Tentative de connexion à une API
 Premièrement tenté de me connecter à l'API créée pour le cours de FullStack
+
