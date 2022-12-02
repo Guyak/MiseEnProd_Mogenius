@@ -14,3 +14,8 @@ Premièrement tenté de me connecter à l'API créée pour le cours de FullStack
 
 * Mise en place de variables d'environnement dans application.yaml, et renseignement sur Mogenius
 ![Sreenshot YAML](./images/yaml.PNG)
+![Sreenshot Mogenius](./images/Mogenius_EV.PNG)
+
+* Création de second service avec un template MySQL
+
+* ***Problème rencontré*** => Le serveur distant créé par la base de donnée n'est pas accessible via MySQL malgré plusieurs modifications et tests
